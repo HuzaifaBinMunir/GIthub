@@ -22,3 +22,5 @@ git commit -m "message"
 git push 
 `
 ### Section 2.2
+Salesforce: 
+<img width="1868" height="881" alt="image" src="https://github.com/user-attachments/assets/abed6f67-032b-4dfc-b029-e74f84262241" />
